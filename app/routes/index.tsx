@@ -31,6 +31,9 @@ import type {
             </ul>
           </nav>
         </div>
+        <div className="footer">Created with 🚬 by
+          <a href="https://github.com/pop2pop3"> pop2pop3</a>
+        </div>
       </div>
     );
   }
