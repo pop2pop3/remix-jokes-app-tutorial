@@ -74,3 +74,13 @@
       font-size: 8rem;
     }
   }
+
+  .footer {
+   margin-bottom: 100px;
+   font-family: var(--font-display);
+   font-size: 1.125rem;
+   line-height: 1;
+   transition: 100ms ease-in-out;
+   text-shadow: 0 0.2em 0.5em rgba(0, 0, 0, 0.5), 0 5px 0
+       rgba(0, 0, 0, 0.75);
+  }
