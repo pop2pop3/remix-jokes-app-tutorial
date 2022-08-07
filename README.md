@@ -51,3 +51,6 @@ rm -rf app
 # copy your app over
 cp -R ../my-old-remix-app/app app
 ```
+
+Feel free to modify the scripts and follow the tutorial to create remix-jokes app:
+- [https://remix.run/docs/en/v1/tutorials/jokes]
